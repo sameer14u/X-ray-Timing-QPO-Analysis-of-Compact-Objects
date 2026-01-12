@@ -1,1 +1,1 @@
-#X-ray-Timing-QPO-Analysis-of-Compact-Objects
+X-ray-Timing-QPO-Analysis-of-Compact-Objects
